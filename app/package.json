@@ -1,0 +1,16 @@
+{
+    "name": "messeger-bird-ambiente",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon -L src"
+    },
+    "keywords": [],
+    "author": "JSM",
+    "license": "ISC",
+    "dependencies": {
+        
+    }
+    
+}
